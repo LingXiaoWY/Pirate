@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../image/background.jpg</file>
+        <file>../image/bomb.png</file>
+        <file>../image/box.png</file>
+        <file>../image/captain1.png</file>
+        <file>../image/captain2.png</file>
+        <file>../image/login.jpg</file>
+        <file>../image/sailor1.png</file>
+        <file>../image/sailor2.png</file>
+        <file>../image/soil1.png</file>
+        <file>../image/soil2.jpg</file>
+        <file>../image/weapons1.jpg</file>
+        <file>../image/weapons2.jpg</file>
+        <file>../image/terrain.png</file>
+    </qresource>
+</RCC>
