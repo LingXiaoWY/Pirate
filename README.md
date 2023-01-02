@@ -6,13 +6,10 @@ Pirate
 4. 实现技术：单例模式，STL的使用，信号与槽函数的连接，图形碰撞检测，基础数据结构
 5. 物理引擎：抛物线
 
-
-
 Pirate类图
 -------------
 <div align=center><img src="https://img9999.wchunge.cn/i/2023/01/02/10wm291.png" height="765"/> </div>
-
-
+如果图片显示不全可以点击图片链接：https://img9999.wchunge.cn/i/2023/01/02/10wm291.png
 
 Demo演示
 ----------
